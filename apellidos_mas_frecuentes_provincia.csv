@@ -1,0 +1,481 @@
+"provincia_nombre","apellido","ranking","porcentaje_poblacion_portadora","provincia_id"
+"Buenos Aires","GONZÁLEZ",1,1.72,6
+"Buenos Aires","RODRÍGUEZ",2,1.326,6
+"Buenos Aires","GÓMEZ",3,1.219,6
+"Buenos Aires","FERNÁNDEZ",4,1.147,6
+"Buenos Aires","LÓPEZ",5,1.092,6
+"Buenos Aires","MARTÍNEZ",6,1.013,6
+"Buenos Aires","DÍAZ",7,0.852,6
+"Buenos Aires","GARCÍA",8,0.794,6
+"Buenos Aires","PÉREZ",9,0.771,6
+"Buenos Aires","SÁNCHEZ",10,0.713,6
+"Buenos Aires","ROMERO",11,0.688,6
+"Buenos Aires","BENÍTEZ",12,0.592,6
+"Buenos Aires","SOSA",13,0.496,6
+"Buenos Aires","RAMÍREZ",14,0.496,6
+"Buenos Aires","RUIZ",15,0.474,6
+"Buenos Aires","ÁLVAREZ",16,0.472,6
+"Buenos Aires","TORRES",17,0.44,6
+"Buenos Aires","ACOSTA",18,0.436,6
+"Buenos Aires","ROJAS",19,0.416,6
+"Buenos Aires","MEDINA",20,0.407,6
+"Catamarca","CARRIZO",1,1.986,10
+"Catamarca","DÍAZ",2,1.549,10
+"Catamarca","ROMERO",3,1.513,10
+"Catamarca","RODRÍGUEZ",4,1.399,10
+"Catamarca","HERRERA",5,1.364,10
+"Catamarca","NIEVA",6,1.223,10
+"Catamarca","BARRIONUEVO",7,1.062,10
+"Catamarca","GONZÁLEZ",8,0.981,10
+"Catamarca","GÓMEZ",9,0.962,10
+"Catamarca","VEGA",10,0.951,10
+"Catamarca","MORENO",11,0.861,10
+"Catamarca","CÓRDOBA",12,0.829,10
+"Catamarca","BAZÁN",13,0.805,10
+"Catamarca","LÓPEZ",14,0.777,10
+"Catamarca","GUTIÉRREZ",15,0.775,10
+"Catamarca","QUIROGA",16,0.714,10
+"Catamarca","SORIA",17,0.692,10
+"Catamarca","CASTRO",18,0.679,10
+"Catamarca","ÁLVAREZ",19,0.642,10
+"Catamarca","MARTÍNEZ",20,0.639,10
+"Chaco","GÓMEZ",1,2.716,22
+"Chaco","GONZÁLEZ",2,2.204,22
+"Chaco","FERNÁNDEZ",3,1.812,22
+"Chaco","ROMERO",4,1.615,22
+"Chaco","LÓPEZ",5,1.579,22
+"Chaco","SÁNCHEZ",6,1.317,22
+"Chaco","RAMÍREZ",7,1.243,22
+"Chaco","MARTÍNEZ",8,0.962,22
+"Chaco","AGUIRRE",9,0.956,22
+"Chaco","RODRÍGUEZ",10,0.956,22
+"Chaco","BENÍTEZ",11,0.877,22
+"Chaco","DÍAZ",12,0.877,22
+"Chaco","SOSA",13,0.839,22
+"Chaco","PÉREZ",14,0.81,22
+"Chaco","RUIZ",15,0.736,22
+"Chaco","OJEDA",16,0.735,22
+"Chaco","GARCÍA",17,0.722,22
+"Chaco","ACOSTA",18,0.687,22
+"Chaco","MEDINA",19,0.683,22
+"Chaco","BARRIOS",20,0.618,22
+"Chubut","GONZÁLEZ",1,1.479,26
+"Chubut","DÍAZ",2,1.006,26
+"Chubut","RODRÍGUEZ",3,0.957,26
+"Chubut","FERNÁNDEZ",4,0.834,26
+"Chubut","LÓPEZ",5,0.801,26
+"Chubut","MARTÍNEZ",6,0.794,26
+"Chubut","PÉREZ",7,0.767,26
+"Chubut","GARCÍA",8,0.745,26
+"Chubut","GÓMEZ",9,0.671,26
+"Chubut","MUÑOZ",10,0.589,26
+"Chubut","SÁNCHEZ",11,0.567,26
+"Chubut","SOTO",12,0.551,26
+"Chubut","VARGAS",13,0.538,26
+"Chubut","MANSILLA",14,0.525,26
+"Chubut","HERNÁNDEZ",15,0.522,26
+"Chubut","ÁLVAREZ",16,0.506,26
+"Chubut","FLORES",17,0.478,26
+"Chubut","TORRES",18,0.472,26
+"Chubut","ROMERO",19,0.418,26
+"Chubut","MORALES",20,0.405,26
+"Ciudad Autónoma de Buenos Aires","GONZÁLEZ",1,1.281,2
+"Ciudad Autónoma de Buenos Aires","RODRÍGUEZ",2,1.206,2
+"Ciudad Autónoma de Buenos Aires","FERNÁNDEZ",3,1.058,2
+"Ciudad Autónoma de Buenos Aires","LÓPEZ",4,0.965,2
+"Ciudad Autónoma de Buenos Aires","GARCÍA",5,0.888,2
+"Ciudad Autónoma de Buenos Aires","MARTÍNEZ",6,0.847,2
+"Ciudad Autónoma de Buenos Aires","PÉREZ",7,0.693,2
+"Ciudad Autónoma de Buenos Aires","GÓMEZ",8,0.692,2
+"Ciudad Autónoma de Buenos Aires","SÁNCHEZ",9,0.577,2
+"Ciudad Autónoma de Buenos Aires","DÍAZ",10,0.577,2
+"Ciudad Autónoma de Buenos Aires","ÁLVAREZ",11,0.45,2
+"Ciudad Autónoma de Buenos Aires","ROMERO",12,0.42,2
+"Ciudad Autónoma de Buenos Aires","FLORES",13,0.372,2
+"Ciudad Autónoma de Buenos Aires","RAMÍREZ",14,0.35,2
+"Ciudad Autónoma de Buenos Aires","MAMANI",15,0.345,2
+"Ciudad Autónoma de Buenos Aires","BENÍTEZ",16,0.339,2
+"Ciudad Autónoma de Buenos Aires","ROJAS",17,0.337,2
+"Ciudad Autónoma de Buenos Aires","RUIZ",18,0.322,2
+"Ciudad Autónoma de Buenos Aires","TORRES",19,0.316,2
+"Ciudad Autónoma de Buenos Aires","GUTIÉRREZ",20,0.312,2
+"Córdoba","GONZÁLEZ",1,1.386,14
+"Córdoba","RODRÍGUEZ",2,1.288,14
+"Córdoba","LÓPEZ",3,1.1,14
+"Córdoba","DÍAZ",4,0.999,14
+"Córdoba","GÓMEZ",5,0.929,14
+"Córdoba","MARTÍNEZ",6,0.833,14
+"Córdoba","SÁNCHEZ",7,0.813,14
+"Córdoba","ROMERO",8,0.804,14
+"Córdoba","FERNÁNDEZ",9,0.753,14
+"Córdoba","PÉREZ",10,0.741,14
+"Córdoba","PEREYRA",11,0.62,14
+"Córdoba","TORRES",12,0.587,14
+"Córdoba","PERALTA",13,0.58,14
+"Córdoba","GARCÍA",14,0.556,14
+"Córdoba","FERREYRA",15,0.553,14
+"Córdoba","SOSA",16,0.541,14
+"Córdoba","MOLINA",17,0.522,14
+"Córdoba","BUSTOS",18,0.481,14
+"Córdoba","ÁLVAREZ",19,0.471,14
+"Córdoba","MOYANO",20,0.455,14
+"Corrientes","GÓMEZ",1,2.727,18
+"Corrientes","FERNÁNDEZ",2,2.384,18
+"Corrientes","GONZÁLEZ",3,2.277,18
+"Corrientes","ROMERO",4,2.267,18
+"Corrientes","RAMÍREZ",5,1.638,18
+"Corrientes","LÓPEZ",6,1.472,18
+"Corrientes","BENÍTEZ",7,1.348,18
+"Corrientes","RODRÍGUEZ",8,1.302,18
+"Corrientes","SÁNCHEZ",9,1.243,18
+"Corrientes","AGUIRRE",10,1.167,18
+"Corrientes","OJEDA",11,1.059,18
+"Corrientes","MARTÍNEZ",12,1.015,18
+"Corrientes","SOSA",13,0.853,18
+"Corrientes","MAIDANA",14,0.805,18
+"Corrientes","VALLEJOS",15,0.782,18
+"Corrientes","ALEGRE",16,0.753,18
+"Corrientes","BARRIOS",17,0.712,18
+"Corrientes","AYALA",18,0.692,18
+"Corrientes","PÉREZ",19,0.688,18
+"Corrientes","CARDOZO",20,0.67,18
+"Entre Ríos","GONZÁLEZ",1,1.816,30
+"Entre Ríos","MARTÍNEZ",2,1.42,30
+"Entre Ríos","RODRÍGUEZ",3,1.304,30
+"Entre Ríos","GÓMEZ",4,1.212,30
+"Entre Ríos","FERNÁNDEZ",5,0.946,30
+"Entre Ríos","LÓPEZ",6,0.919,30
+"Entre Ríos","BENÍTEZ",7,0.863,30
+"Entre Ríos","ROMERO",8,0.844,30
+"Entre Ríos","PÉREZ",9,0.743,30
+"Entre Ríos","GARCÍA",10,0.684,30
+"Entre Ríos","DÍAZ",11,0.66,30
+"Entre Ríos","SÁNCHEZ",12,0.659,30
+"Entre Ríos","GODOY",13,0.64,30
+"Entre Ríos","RAMÍREZ",14,0.635,30
+"Entre Ríos","ACOSTA",15,0.532,30
+"Entre Ríos","GIMÉNEZ",16,0.53,30
+"Entre Ríos","SOSA",17,0.464,30
+"Entre Ríos","RIOS",18,0.462,30
+"Entre Ríos","RUIZ",19,0.449,30
+"Entre Ríos","CABRERA",20,0.441,30
+"Formosa","GONZÁLEZ",1,2.581,34
+"Formosa","GÓMEZ",2,2.04,34
+"Formosa","BENÍTEZ",3,1.543,34
+"Formosa","MARTÍNEZ",4,1.429,34
+"Formosa","FERNÁNDEZ",5,1.426,34
+"Formosa","LÓPEZ",6,1.244,34
+"Formosa","ROMERO",7,1.041,34
+"Formosa","RUIZ",8,1.041,34
+"Formosa","GIMÉNEZ",9,1.036,34
+"Formosa","RAMÍREZ",10,0.991,34
+"Formosa","ROJAS",11,0.948,34
+"Formosa","PÉREZ",12,0.936,34
+"Formosa","TORRES",13,0.917,34
+"Formosa","SÁNCHEZ",14,0.896,34
+"Formosa","ACOSTA",15,0.872,34
+"Formosa","DÍAZ",16,0.858,34
+"Formosa","AYALA",17,0.845,34
+"Formosa","SOSA",18,0.799,34
+"Formosa","VILLALBA",19,0.795,34
+"Formosa","GARCÍA",20,0.775,34
+"Jujuy","MAMANI",1,2.219,38
+"Jujuy","CRUZ",2,2.218,38
+"Jujuy","FLORES",3,1.919,38
+"Jujuy","MARTÍNEZ",4,1.347,38
+"Jujuy","GUTIÉRREZ",5,1.274,38
+"Jujuy","RODRÍGUEZ",6,1.179,38
+"Jujuy","LÓPEZ",7,1.154,38
+"Jujuy","QUISPE",8,0.974,38
+"Jujuy","DÍAZ",9,0.876,38
+"Jujuy","FERNÁNDEZ",10,0.848,38
+"Jujuy","GONZÁLEZ",11,0.847,38
+"Jujuy","RAMOS",12,0.842,38
+"Jujuy","TOLABA",13,0.836,38
+"Jujuy","VARGAS",14,0.783,38
+"Jujuy","SÁNCHEZ",15,0.724,38
+"Jujuy","FARFÁN",16,0.657,38
+"Jujuy","CONDORI",17,0.653,38
+"Jujuy","ROMERO",18,0.632,38
+"Jujuy","CARDOZO",19,0.618,38
+"Jujuy","TORRES",20,0.616,38
+"La Pampa","RODRÍGUEZ",1,1.466,42
+"La Pampa","GONZÁLEZ",2,1.308,42
+"La Pampa","FERNÁNDEZ",3,1.159,42
+"La Pampa","PÉREZ",4,1.134,42
+"La Pampa","GARCÍA",5,1.087,42
+"La Pampa","DÍAZ",6,0.966,42
+"La Pampa","LÓPEZ",7,0.925,42
+"La Pampa","GÓMEZ",8,0.905,42
+"La Pampa","MARTÍNEZ",9,0.842,42
+"La Pampa","SOSA",10,0.703,42
+"La Pampa","LUCERO",11,0.662,42
+"La Pampa","ÁLVAREZ",12,0.631,42
+"La Pampa","SÁNCHEZ",13,0.621,42
+"La Pampa","TORRES",14,0.537,42
+"La Pampa","GIMÉNEZ",15,0.463,42
+"La Pampa","ROMERO",16,0.458,42
+"La Pampa","DOMÍNGUEZ",17,0.446,42
+"La Pampa","MUÑOZ",18,0.438,42
+"La Pampa","SUÁREZ",19,0.418,42
+"La Pampa","MIRANDA",20,0.385,42
+"La Rioja","DÍAZ",1,2.505,46
+"La Rioja","ROMERO",2,1.918,46
+"La Rioja","GONZÁLEZ",3,1.78,46
+"La Rioja","PÁEZ",4,1.563,46
+"La Rioja","HERRERA",5,1.391,46
+"La Rioja","CARRIZO",6,1.344,46
+"La Rioja","RODRÍGUEZ",7,1.313,46
+"La Rioja","FLORES",8,1.263,46
+"La Rioja","MERCADO",9,1.248,46
+"La Rioja","MORENO",10,1.234,46
+"La Rioja","GÓMEZ",11,1.042,46
+"La Rioja","NIETO",12,1.007,46
+"La Rioja","VEGA",13,0.964,46
+"La Rioja","LUNA",14,0.917,46
+"La Rioja","ÁVILA",15,0.903,46
+"La Rioja","CASTRO",16,0.867,46
+"La Rioja","MOLINA",17,0.863,46
+"La Rioja","BRIZUELA",18,0.854,46
+"La Rioja","TORRES",19,0.844,46
+"La Rioja","FERNÁNDEZ",20,0.821,46
+"Mendoza","GONZÁLEZ",1,1.634,50
+"Mendoza","RODRÍGUEZ",2,1.187,50
+"Mendoza","MARTÍNEZ",3,1.136,50
+"Mendoza","FERNÁNDEZ",4,1.071,50
+"Mendoza","PÉREZ",5,0.971,50
+"Mendoza","DÍAZ",6,0.945,50
+"Mendoza","GÓMEZ",7,0.911,50
+"Mendoza","LÓPEZ",8,0.871,50
+"Mendoza","SOSA",9,0.835,50
+"Mendoza","GARCÍA",10,0.8,50
+"Mendoza","LUCERO",11,0.779,50
+"Mendoza","SÁNCHEZ",12,0.749,50
+"Mendoza","QUIROGA",13,0.74,50
+"Mendoza","MORALES",14,0.681,50
+"Mendoza","FLORES",15,0.64,50
+"Mendoza","CASTRO",16,0.614,50
+"Mendoza","TORRES",17,0.585,50
+"Mendoza","MUÑOZ",18,0.559,50
+"Mendoza","ORTIZ",19,0.492,50
+"Mendoza","VIDELA",20,0.492,50
+"Misiones","RODRÍGUEZ",1,2.066,54
+"Misiones","GONZÁLEZ",2,2.025,54
+"Misiones","BENÍTEZ",3,1.682,54
+"Misiones","MARTÍNEZ",4,1.298,54
+"Misiones","LÓPEZ",5,1.22,54
+"Misiones","GÓMEZ",6,1.145,54
+"Misiones","FERNÁNDEZ",7,1.08,54
+"Misiones","DA SILVA",8,1.059,54
+"Misiones","DOS SANTOS",9,0.837,54
+"Misiones","VILLALBA",10,0.758,54
+"Misiones","RAMÍREZ",11,0.748,54
+"Misiones","DUARTE",12,0.746,54
+"Misiones","SOSA",13,0.703,54
+"Misiones","NUÑEZ",14,0.666,54
+"Misiones","ÁLVEZ",15,0.655,54
+"Misiones","ACOSTA",16,0.644,54
+"Misiones","OLIVERA",17,0.636,54
+"Misiones","SILVA",18,0.602,54
+"Misiones","GIMÉNEZ",19,0.586,54
+"Misiones","BAEZ",20,0.577,54
+"Neuquén","GONZÁLEZ",1,1.359,58
+"Neuquén","MUÑOZ",2,1.127,58
+"Neuquén","RODRÍGUEZ",3,1.09,58
+"Neuquén","MARTÍNEZ",4,0.862,58
+"Neuquén","LÓPEZ",5,0.831,58
+"Neuquén","DÍAZ",6,0.736,58
+"Neuquén","FERNÁNDEZ",7,0.705,58
+"Neuquén","PÉREZ",8,0.702,58
+"Neuquén","JARA",9,0.675,58
+"Neuquén","SEPÚLVEDA",10,0.674,58
+"Neuquén","GARCÍA",11,0.655,58
+"Neuquén","SÁNCHEZ",12,0.64,58
+"Neuquén","CASTILLO",13,0.636,58
+"Neuquén","GÓMEZ",14,0.633,58
+"Neuquén","FUENTES",15,0.628,58
+"Neuquén","HERNÁNDEZ",16,0.596,58
+"Neuquén","SOTO",17,0.585,58
+"Neuquén","VÁZQUEZ",18,0.578,58
+"Neuquén","MORALES",19,0.577,58
+"Neuquén","GUTIÉRREZ",20,0.557,58
+"Río Negro","GONZÁLEZ",1,1.36,62
+"Río Negro","MARTÍNEZ",2,1.01,62
+"Río Negro","RODRÍGUEZ",3,1.002,62
+"Río Negro","MUÑOZ",4,0.92,62
+"Río Negro","FERNÁNDEZ",5,0.859,62
+"Río Negro","GARCÍA",6,0.856,62
+"Río Negro","LÓPEZ",7,0.819,62
+"Río Negro","PÉREZ",8,0.763,62
+"Río Negro","DÍAZ",9,0.74,62
+"Río Negro","SÁNCHEZ",10,0.626,62
+"Río Negro","GÓMEZ",11,0.534,62
+"Río Negro","MORALES",12,0.53,62
+"Río Negro","HERNÁNDEZ",13,0.528,62
+"Río Negro","TORRES",14,0.521,62
+"Río Negro","SEPÚLVEDA",15,0.499,62
+"Río Negro","SANDOVAL",16,0.486,62
+"Río Negro","JARA",17,0.453,62
+"Río Negro","GUTIÉRREZ",18,0.451,62
+"Río Negro","FLORES",19,0.451,62
+"Río Negro","SOTO",20,0.441,62
+"Salta","LÓPEZ",1,1.875,66
+"Salta","FLORES",2,1.437,66
+"Salta","RODRÍGUEZ",3,1.289,66
+"Salta","DÍAZ",4,1.279,66
+"Salta","CRUZ",5,1.175,66
+"Salta","MARTÍNEZ",6,1.132,66
+"Salta","GONZÁLEZ",7,1.048,66
+"Salta","MAMANI",8,1.011,66
+"Salta","RUIZ",9,0.992,66
+"Salta","ROMERO",10,0.968,66
+"Salta","GUTIÉRREZ",11,0.952,66
+"Salta","TORRES",12,0.811,66
+"Salta","PÉREZ",13,0.784,66
+"Salta","SÁNCHEZ",14,0.78,66
+"Salta","GÓMEZ",15,0.765,66
+"Salta","FERNÁNDEZ",16,0.733,66
+"Salta","GARCÍA",17,0.711,66
+"Salta","ROJAS",18,0.599,66
+"Salta","CARDOZO",19,0.582,66
+"Salta","ARIAS",20,0.569,66
+"San Juan","CASTRO",1,1.882,70
+"San Juan","GONZÁLEZ",2,1.774,70
+"San Juan","DÍAZ",3,1.558,70
+"San Juan","RODRÍGUEZ",4,1.34,70
+"San Juan","FERNÁNDEZ",5,1.251,70
+"San Juan","GÓMEZ",6,1.165,70
+"San Juan","SÁNCHEZ",7,1.161,70
+"San Juan","FLORES",8,1.105,70
+"San Juan","PÉREZ",9,1.076,70
+"San Juan","QUIROGA",10,1.054,70
+"San Juan","MOLINA",11,0.939,70
+"San Juan","PÁEZ",12,0.935,70
+"San Juan","CORTEZ",13,0.818,70
+"San Juan","CARRIZO",14,0.807,70
+"San Juan","LÓPEZ",15,0.732,70
+"San Juan","MUÑOZ",16,0.73,70
+"San Juan","GARCÍA",17,0.703,70
+"San Juan","TEJADA",18,0.667,70
+"San Juan","MORALES",19,0.66,70
+"San Juan","TORRES",20,0.647,70
+"San Luis","LUCERO",1,2.241,74
+"San Luis","SOSA",2,1.888,74
+"San Luis","FERNÁNDEZ",3,1.416,74
+"San Luis","RODRÍGUEZ",4,1.351,74
+"San Luis","QUIROGA",5,1.239,74
+"San Luis","GONZÁLEZ",6,1.164,74
+"San Luis","PÉREZ",7,1.137,74
+"San Luis","GÓMEZ",8,1.123,74
+"San Luis","TORRES",9,1.064,74
+"San Luis","MUÑOZ",10,0.988,74
+"San Luis","ESCUDERO",11,0.935,74
+"San Luis","LÓPEZ",12,0.868,74
+"San Luis","DÍAZ",13,0.859,74
+"San Luis","MIRANDA",14,0.844,74
+"San Luis","SUÁREZ",15,0.78,74
+"San Luis","GODOY",16,0.715,74
+"San Luis","VILLEGAS",17,0.703,74
+"San Luis","BARROSO",18,0.68,74
+"San Luis","ORTIZ",19,0.66,74
+"San Luis","GARCÍA",20,0.646,74
+"Santa Cruz","GONZÁLEZ",1,1.483,78
+"Santa Cruz","DÍAZ",2,1.137,78
+"Santa Cruz","RODRÍGUEZ",3,1.105,78
+"Santa Cruz","GÓMEZ",4,0.934,78
+"Santa Cruz","MARTÍNEZ",5,0.921,78
+"Santa Cruz","PÉREZ",6,0.893,78
+"Santa Cruz","FERNÁNDEZ",7,0.882,78
+"Santa Cruz","LÓPEZ",8,0.849,78
+"Santa Cruz","SÁNCHEZ",9,0.672,78
+"Santa Cruz","VARGAS",10,0.655,78
+"Santa Cruz","GARCÍA",11,0.65,78
+"Santa Cruz","RUIZ",12,0.644,78
+"Santa Cruz","ÁLVAREZ",13,0.629,78
+"Santa Cruz","MUÑOZ",14,0.613,78
+"Santa Cruz","ROMERO",15,0.61,78
+"Santa Cruz","VERA",16,0.609,78
+"Santa Cruz","FLORES",17,0.595,78
+"Santa Cruz","OJEDA",18,0.563,78
+"Santa Cruz","CÁRDENAS",19,0.547,78
+"Santa Cruz","TORRES",20,0.547,78
+"Santa Fe","GONZÁLEZ",1,1.394,82
+"Santa Fe","GÓMEZ",2,1.217,82
+"Santa Fe","RODRÍGUEZ",3,1.095,82
+"Santa Fe","FERNÁNDEZ",4,1.016,82
+"Santa Fe","LÓPEZ",5,0.962,82
+"Santa Fe","MARTÍNEZ",6,0.908,82
+"Santa Fe","DÍAZ",7,0.753,82
+"Santa Fe","SÁNCHEZ",8,0.728,82
+"Santa Fe","PÉREZ",9,0.694,82
+"Santa Fe","ROMERO",10,0.679,82
+"Santa Fe","GARCÍA",11,0.665,82
+"Santa Fe","RAMÍREZ",12,0.562,82
+"Santa Fe","ACOSTA",13,0.543,82
+"Santa Fe","BENÍTEZ",14,0.475,82
+"Santa Fe","AGUIRRE",15,0.474,82
+"Santa Fe","SOSA",16,0.47,82
+"Santa Fe","RUIZ",17,0.412,82
+"Santa Fe","OJEDA",18,0.394,82
+"Santa Fe","ÁLVAREZ",19,0.392,82
+"Santa Fe","TORRES",20,0.358,82
+"Santiago del Estero","DÍAZ",1,2.342,86
+"Santiago del Estero","GÓMEZ",2,2.188,86
+"Santiago del Estero","GONZÁLEZ",3,1.452,86
+"Santiago del Estero","JUÁREZ",4,1.396,86
+"Santiago del Estero","PAZ",5,1.341,86
+"Santiago del Estero","RUIZ",6,1.333,86
+"Santiago del Estero","RODRÍGUEZ",7,1.262,86
+"Santiago del Estero","CORONEL",8,1.244,86
+"Santiago del Estero","SUÁREZ",9,1.191,86
+"Santiago del Estero","LEDESMA",10,1.153,86
+"Santiago del Estero","HERRERA",11,1.115,86
+"Santiago del Estero","LUNA",12,1.098,86
+"Santiago del Estero","PÉREZ",13,0.987,86
+"Santiago del Estero","SANTILLÁN",14,0.956,86
+"Santiago del Estero","SOSA",15,0.9,86
+"Santiago del Estero","JIMÉNEZ",16,0.853,86
+"Santiago del Estero","ROJAS",17,0.826,86
+"Santiago del Estero","LÓPEZ",18,0.798,86
+"Santiago del Estero","GEREZ",19,0.78,86
+"Santiago del Estero","MANSILLA",20,0.777,86
+"Tierra del Fuego","GONZÁLEZ",1,1.585,94
+"Tierra del Fuego","RODRÍGUEZ",2,1.188,94
+"Tierra del Fuego","GÓMEZ",3,1.104,94
+"Tierra del Fuego","DÍAZ",4,0.973,94
+"Tierra del Fuego","LÓPEZ",5,0.965,94
+"Tierra del Fuego","MARTÍNEZ",6,0.934,94
+"Tierra del Fuego","PÉREZ",7,0.911,94
+"Tierra del Fuego","FERNÁNDEZ",8,0.9,94
+"Tierra del Fuego","SÁNCHEZ",9,0.746,94
+"Tierra del Fuego","GARCÍA",10,0.726,94
+"Tierra del Fuego","ROMERO",11,0.673,94
+"Tierra del Fuego","VARGAS",12,0.653,94
+"Tierra del Fuego","FLORES",13,0.617,94
+"Tierra del Fuego","TORRES",14,0.607,94
+"Tierra del Fuego","RUIZ",15,0.534,94
+"Tierra del Fuego","ÁLVAREZ",16,0.515,94
+"Tierra del Fuego","BENÍTEZ",17,0.497,94
+"Tierra del Fuego","RAMÍREZ",18,0.44,94
+"Tierra del Fuego","SOSA",19,0.429,94
+"Tierra del Fuego","NUÑEZ",20,0.405,94
+"Tucumán","DÍAZ",1,2.203,90
+"Tucumán","GONZÁLEZ",2,1.896,90
+"Tucumán","RODRÍGUEZ",3,1.623,90
+"Tucumán","JUÁREZ",4,1.494,90
+"Tucumán","MEDINA",5,1.411,90
+"Tucumán","GÓMEZ",6,1.337,90
+"Tucumán","LÓPEZ",7,1.101,90
+"Tucumán","RUIZ",8,0.983,90
+"Tucumán","PÉREZ",9,0.973,90
+"Tucumán","FERNÁNDEZ",10,0.905,90
+"Tucumán","SÁNCHEZ",11,0.866,90
+"Tucumán","HERRERA",12,0.863,90
+"Tucumán","SORIA",13,0.713,90
+"Tucumán","ROMANO",14,0.707,90
+"Tucumán","JIMÉNEZ",15,0.704,90
+"Tucumán","CARRIZO",16,0.686,90
+"Tucumán","GARCÍA",17,0.635,90
+"Tucumán","SUÁREZ",18,0.595,90
+"Tucumán","LAZARTE",19,0.568,90
+"Tucumán","MOLINA",20,0.562,90
