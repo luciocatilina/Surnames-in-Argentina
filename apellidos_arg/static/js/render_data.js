@@ -21,6 +21,7 @@ const renderData = (response) => {
         });
         renderMap(listaDataToMap, totalPais)
         total_p = document.createElement('P')
+        total.innerHTML = ''
         total_p.innerHTML = `Total : ${totalPais}`
         fragmentoTotal.appendChild(total_p)
     }else {

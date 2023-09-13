@@ -2,7 +2,6 @@ from django.shortcuts import render
 from pymongo import MongoClient
 import json
 from django.http import JsonResponse, HttpResponseBadRequest
-from django.http import HttpResponse
 
 data = {}
 
@@ -14,17 +13,14 @@ def index(request):
     return render (request, 'index.html')
 
 def apellidos_json(request):
-    client = MongoClient()
-    client = MongoClient('localhost', 27017)
+    uri = 'mongodb+srv://pablocandia395:Pa2020ca@surnamesarg.w3mqkyk.mongodb.net/?retryWrites=true&w=majority'
 
-    db = client['proyecto_apellidos']
+    client = MongoClient()
+    client = MongoClient(uri)
+
+    db = client['apellidos_arg']
 
     collection = db['apellidos_cantidad_personas_provincia']
-
-    collection_top_pais = db['apellidos_mas_frecuentes_pais']
-
-    collection_top_provincia = db['apellidos_mas_frecuentes_provincia']
-
 
 
     if request.method == 'POST':
@@ -32,6 +28,7 @@ def apellidos_json(request):
 
         data = json.loads(request.body.decode('utf-8'))
         apellido = data.get('lastName')
+        
 
         lista_apellido_cant_provincia = []
         apellido_a_buscar = apellido

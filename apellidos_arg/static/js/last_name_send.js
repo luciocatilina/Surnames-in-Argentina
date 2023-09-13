@@ -10,7 +10,7 @@ form_last_name.addEventListener('submit', (e) => {
         inputLastName.classList.remove('rojo')
         sendLastName(lastName)
         detalle.innerHTML = ''
-        total.innerHTML = ''
+        total.innerHTML = '<p>Buscando...</p>'
         provinciaPath.default()
     }
     
