@@ -1564,7 +1564,7 @@
 
 {%block script%}
 
-   
+{% csrf_token %}   
 <script src="{%static 'js/map.js'%}"></script>
 <script src="{%static 'js/render_data.js'%}"></script>
 <script src="{%static 'js/last_name_send.js'%}"></script>

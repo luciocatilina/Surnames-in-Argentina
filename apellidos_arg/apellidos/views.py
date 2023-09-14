@@ -27,8 +27,7 @@ def apellidos_json(request):
 
 
         data = json.loads(request.body.decode('utf-8'))
-        apellido = data.get('lastName')
-        
+        apellido = data.get('lastName')        
 
         lista_apellido_cant_provincia = []
         apellido_a_buscar = apellido
