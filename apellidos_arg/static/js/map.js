@@ -37,8 +37,8 @@ class provinciaPath{
 //COLORES//
 
 const defecto = '#d3d3d3'
-const hastaCinco = "#FFEBEE";
-const hastaDiez = "#FFCDD2";
+const hastaCinco = "#F0C9C9";
+const hastaDiez = "#F6B7B7";
 const hastaQuince = "#EF9A9A";
 const hastaVeinte = "#E57373";
 const hastaVeinticinco = "#EF5350";
