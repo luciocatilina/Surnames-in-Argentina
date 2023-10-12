@@ -15,6 +15,7 @@ class provinciaPath{
 
     textHover(texto) {
         this.element.setAttribute('title', texto)
+        this.element.setAttribute('data-original-title', texto)
     }
     
     
@@ -23,11 +24,13 @@ class provinciaPath{
         pathElements.forEach((path) => {
             const provincia = new provinciaPath(path)
             provincia.fill('#d3d3d3')
+            provincia.textHover('')
         })
     }
 
     setToolTip(string) {
         this.element.setAttribute('title', string)
+        console.log(string)
     }
 
     static findByName(name){
@@ -37,28 +40,29 @@ class provinciaPath{
 //COLORES//
 
 const defecto = '#d3d3d3'
-const hastaCinco = "#F0C9C9";
-const hastaDiez = "#F6B7B7";
-const hastaQuince = "#EF9A9A";
-const hastaVeinte = "#E57373";
-const hastaVeinticinco = "#EF5350";
-const hastaTreinta = "#F44336";
-const hastaTreintaCinco = "#D32F2F";
-const hastaCuarenta = "#C62828";
-const hastaCuarentaCinco = "#B71C1C";
-const hastaCincuenta = "#FF1744";
-const cien = '#000'
+const hastaCinco = "#A6D4FA";
+const hastaDiez = "#89C1F9";
+const hastaQuince = "#6CBFF7";
+const hastaVeinte = "#4FBDF6";
+const hastaVeinticinco = "#32ABF5";
+const hastaTreinta = "#1599F4";
+const hastaTreintaCinco = "#0087F2";
+const hastaCuarenta = "#0079D9";
+const hastaCuarentaCinco = "#006BC2";
+const hastaCincuenta = "#005DAE";
+const cien = '#000000';
 
 
 
 // <p style="font-size: 25px;"> ${element[2]} || Cantidad: ${element[0]} </p>
-
 const renderMap = (lista, total) => {
     lista.forEach(element => {
+        cantidad = element[0]
+        nombre_provincia = element[2]
         porcentaje = (element[0]*100)/total
         provincia = provinciaPath.findByName(element[1])
-        provincia.textHover(`<p style="font-size: 25px;"> ${element[2]} ${element[0]} (${Math.round(porcentaje * 100) / 100}%)</p>`)
-        
+        provincia.textHover(`<p style="font-size: 25px;"> ${nombre_provincia} ${cantidad} (${Math.round(porcentaje * 100) / 100}%)</p>`)
+
         provincia = provinciaPath.findByName(element[1])
         if (porcentaje <=5) {
             provincia.fill(hastaCinco)
@@ -87,7 +91,7 @@ const renderMap = (lista, total) => {
         }else if (porcentaje <=45) {
             provincia.fill(hastaCuarentaCinco)
 
-        }else if (porcentaje <=50) {
+        }else if (porcentaje <100) {
             provincia.fill(hastaCincuenta)
 
         }else if (porcentaje === 100){
